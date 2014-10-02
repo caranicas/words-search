@@ -1,0 +1,26 @@
+body{
+	padding:30px;
+}
+
+#text-display{
+	width:300px;
+	margin-bottom:18px;
+	font-size: 14px
+}
+
+span.found
+{
+	background-color:rgb(200,50,35);
+}
+
+#results-display{
+
+	border:1px;
+	border-style: solid;
+	border-radius: 3px;
+
+	padding:4px;
+	width:200px;
+	font-size: 16px
+
+}

@@ -1,0 +1,1 @@
+Simple php example of searching through a string and then highlighting the relavent words.
